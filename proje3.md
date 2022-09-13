@@ -12,18 +12,10 @@
 
 **1.** Yukarıda verilen dizinin Binary Search Tree aşamalarını yazınız.
 
+***ilk sayı 7, root olarak seçilir***
 ```mermaid
 graph TD;
-    7-->5;      
-> *** ilk sayı 7, root olarak seçilir***     
-    7-->8;
-    8-->9;
-    5-->1;
-    5-->6;
-    1-->0;
-    1-->3;
-    3-->2;
-    3-->4;
+    7    
 ```
 
 
