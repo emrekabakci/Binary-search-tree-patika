@@ -15,7 +15,7 @@
 ***ilk sayı 7, root olarak seçilir***
 ```mermaid
 graph TD;
-    7    
+    7   ;  
 ```
 ***İlk değer olan 7 root seçilir. 5 değeri root değerinden küçük olduğu için sol tarafa yazılır.***
 ```mermaid
