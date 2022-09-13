@@ -27,3 +27,5 @@
 > ***4 değeri root ve 5 değerlerinden küçük olduğu için 1 değeri kontrol edilir, 4 değeri 1 değerinden büyük olduğu için 3 değeri kontrol edilir. 4, 3 değerinden büyük olduğu için 3 değerinin sağına yazılır.***
 > 
 > ***2 değeri root ve 5 değerlerinden küçük olduğu için 1 değeri kontrol edilir, 2 değeri 1 değerinden büyük olduğu için 3 değeri kontrol edilir. 2, 3 değerinden küçük olduğu için 3 değerinin soluna yazılır.***
+
+**[Patika Profilim](https://app.patika.dev/oxyroth)**
