@@ -2,7 +2,7 @@
 
 *[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.*
 
-İlk değer olan 7 root seçilir. 5 değeri root değerinden küçük olduğu için sol tarafa yazılır.
+
 
 ---
 
@@ -16,6 +16,11 @@
 ```mermaid
 graph TD;
     7    
+```
+***İlk değer olan 7 root seçilir. 5 değeri root değerinden küçük olduğu için sol tarafa yazılır.***
+```mermaid
+graph TD;
+    7-->5;  
 ```
 
 
